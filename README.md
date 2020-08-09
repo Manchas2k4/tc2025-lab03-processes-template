@@ -43,3 +43,8 @@ PPID = 1234 PID = 1235 NIVEL = 0
 			PPID = 1241 PID = 1244 NIVEL = 3
 ```
 
+|     | Ponderación                                                                                                                                                                                                |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| +10 | Verifica que el programa reciba la cantidad correcta de<br>parámetros. En caso de que no sea así, el programa<br>despliega un mensaje adecuado y termina, regresando<br>-2 como resultado de su ejecución. |
+| +10 | Verifica que number sea un número entero válido (mayor<br>a cero). En caso de que no sea así, el programa<br>despliega un mensaje adecuado y termina, regresando<br>-3 como resultado de su ejecución.     |
+| +70 | El programa implementa una solución correcta. Regresa<br>0 como resultado de su ejecución.                                                                                                                 |
