@@ -1,3 +1,4 @@
+![Tec de Monterrey](images/logotecmty.png)
 # Actividad colaborativa - Manejo de procesos
 Escribe un programa llamado descending que recibe de línea de comando un número entero positivo.
 
